@@ -1,0 +1,502 @@
+计算机 统计 硕士 数据挖掘 
+编程基础 Python Java C C++ TensorFlow PyTorch 深度学习框架 
+数据挖掘 理论知识 数据分析 
+动手能力 沟通 团队协作 
+
+
+本科 计算机 数学 统计 数据科学 
+编程基础 SQL Python R Java 算法 Hadoop Spark 分布式平台 数据处理 
+机器学习 数理统计 推荐系统 人群分类 用户标签 计算广告 工程实践经验 
+游戏产品 数据分析思路 数据敏感性 
+沟通 主动积极 发现问题 解决问题 经验框架 乐于分享 
+
+
+
+C C++ Python linux平台 
+数据结构 算法设计 机器学习 
+算法 CTR Rank 
+解决问题 沟通 团队 合作 
+
+
+硕士 统计 数学 计算机 数据挖掘 
+SQL 数据库 Hadoop ODPS 
+数据挖掘 Java Python 数据挖掘 算法 自然语言处理 图算法 
+
+数据挖掘 沟通 团队 
+互联网 风控模型 互联网安全 公共安全 团队管理 
+
+
+数学 统计学 本科 硕士 
+互联网 金融行业 数据分析 数据挖掘 
+决策树 时间序列 回归分析 聚类挖掘 贝叶斯 关联规则挖掘 统计 建模实践经验 
+sql R Python SPSS SAS 数据分析 
+大数据 Hadoop Hive 
+团队 沟通 
+
+数据分析 清洗 建模 
+
+数据分析报告 
+
+
+数学类 算法类 硕士 
+文本分类 知识图谱 文本挖掘 文本相似性 命名实体识别 分词 信息检索 Q&A 机器翻译 
+NLP HMM EM LDA 
+深度学习 句向量 CNN RNN LSTM 
+机器学习 数据挖掘 
+中文NLP QA 知识图谱 事理图谱 机器翻译 阅读理解 信号处理 
+Java C C++ Python 数据结构 算法 
+
+
+本科 计算机 数学 统计学 数据挖掘 
+机器学习 算法 
+Hadoop Spark 大数据 
+python java scala 数据结构 算法设计 
+业务理解力 主动性 沟通 
+
+
+本科 计算机 电子信息 数学 统计 
+Python C++ SQL 
+数据结构 算法 
+数据挖掘 逻辑回归 xgboost lightgbm 建模 
+分布式数据存储 Spark Hive 
+深度学习 自然语言处理 迁移学习 半监督学习 图计算 
+
+
+本科 数学 统计学 计算机相关专业 数据挖掘 广告传媒 互联网 广告 传媒 Excel 关系型数据库 MySQL Oracle SqlServer Python R bi tableau powerbi 机器学习 线性回归 逻辑回归 
+表达能力 逻辑思维 数据敏感性 
+
+本科 
+数学 统计学 计算机 
+大数据处理 hive SQL EXCEL Python 数据处理 
+逻辑思维 
+沟通 积极主动 思维 敏捷 严密 
+团队 合作 沟通 
+互联网 金融 
+
+
+大学本科 
+创业精神 
+数据处理 数据分析 大数据 
+数据挖掘 SAS Python 埋点治理 数仓搭建 
+数据分析 
+解决问题 沟通 责任心 团队 合作 
+判断力 
+
+
+统计 数学 计算机 专业本科 互联网 
+数据挖掘 Python R SAS 数据分析 
+分类 聚类 预测 算法 
+数据库 数据仓库 SQL SQL Tableau R 
+沟通 表达能力 逻辑思维 数据分析 
+
+
+计算机 数学 统计 数据挖掘 专业本科 
+大规模 数据分析 
+聚类 分类 回归 算法 建模 
+Java Python 
+Hadoop Spark Hive 
+逻辑思维 沟通 团队 合作 
+
+
+数据结构 
+数据报表 
+客户生命周期 BI 目标任务完成 BI 
+
+
+
+数学 统计学 机器学习 人工智能 重点大学 本科 C C++ Java python shell 分布式 数据挖掘 hadoop storm hive pig 机器学习 文本挖掘 自然语言 网络爬虫 数据分析 Hadoop Hive Storm MySQL 互联网 数据分析 算法 电信运营商 数据分析 
+
+理工科 化工 电力行业 
+工业 设备 机理 生产工艺 数据分析 
+工业 建模 状态 监控 故障 检测 诊断 设备 预测性 维护 健康 管理 
+机器学习 模式识别 信号处理 概率 统计 算法 深度学习 自动 建模 先进 
+工业 数据分析 研发 联系实际 
+Python R Matlab SQL linux Shell 两门 
+数据分析 建模 流程 代码 
+清晰 沟通 文字 表达能力 给出 方案 
+清晰 解释 
+很强 责任心 时间 管理 
+团队协作 新 意愿 
+参与 数据科学 竞赛 名次 
+
+
+数学 统计 计算机专业 硕士 
+两年 数据挖掘 算法 机器学习 统计 建模 
+逻辑思维 沟通 表达能力 方案 输出 展示 
+Python R SAS 算法 机器学习 自然语言处理 预测 算法 推荐系统 
+算法 源码 阅读 重构 二次 封装 调试 
+数据分析 方案 策划 提出 利用 算法 解决问题 
+乐于 钻研 抗压 责任心 团队 合作 
+sense 思考 体系 
+福利待遇 丰厚 年终奖金 高温 通信 全勤 津贴 节日 福利 
+入职 购买 五险 一金 年度 体检 
+公司 部门 员工 活动 每月 团建 文体活动 员工 生日会 旅游 
+五天 时 工作制 国家 通知 休假 享受 有薪 假期 
+团队 氛围 人性 关怀 信任 授权 
+公司 团队 健全 培养 体系 广阔 空间 
+优秀员工 享受 股权 激励 
+
+
+大专 计算机 类 统计学 类 建模 数据分析 碎片 化 条理化 
+Excel SQL 语句 
+Python 数据分析 
+很快 提供 洞见 数据分析 
+统计 
+数据挖掘 优 
+
+
+机器学习 方向 游戏 
+数据挖掘 机器学习 大数据 AI 算法 调优 
+阅读 英文 论文 资料 算法 
+责任心 抗压 
+
+
+硕士 卫生 统计学 流行病学 统计学 数学 公共卫生 预防 医学 
+临床 科研 统计分析 统计分析 报告 撰写 SCI 文章 发表 
+SAS R python 临床 统计 方法 前沿 预测 建模 算法 
+沟通 表达 逻辑思维 英语六级 水平 演讲 技能 
+
+
+硕士 卫生 统计学 流行病学 统计学 数学 公共卫生 预防 医学 
+临床 科研 统计分析 统计分析 报告 撰写 SCI 文章 发表 
+SAS R python 临床 统计 方法 前沿 预测 建模 算法 
+沟通 表达 逻辑思维 英语六级 水平 演讲 技能 
+
+
+成 数据分析报告 建模 报告 数据报表 
+参与 ETL 数据仓库 治理 参与 数据分析 
+岗位 全日制 本科 数据挖掘 计算机 数学 
+沟通 转化成 
+Oracle PostgreSQL SqlServer SAS R SPSS Python SmartMining 
+数据分析 抽取 数据处理 数据建模 数据分析报告 数据报表 
+文档 撰写 沟通 团队 合作 
+条件 农业 通信 金融行业 维护 数据分析 
+BI 可视化 
+Linux Unix 操作系统 
+
+
+数据挖掘 建模 算法 数据分析 
+数据挖掘 统计 理论知识 统计分析 软件 SPSS R Python 
+
+热爱 游戏 责任心 团队 
+计算机 统计学 数学 数据挖掘 建模 游戏 研发 发行 
+
+
+计算机相关专业 本科 
+Linux 脚本语言 Python Java C++ 
+统计 知识图谱 算法 
+知识图谱 方向 年 实战经验 知名 互联网 
+
+
+初级 全日制 统招 本科 计算机 数学 模式识别 自动控制 统计学 运筹学 
+互联网 采集 集成 数据库 管理 数据仓库 专题 数据分析 
+ETL Java Scala SQL python R 
+数据库 管理系统 
+水利 水务 
+微信 分享 
+
+本科 计算机 数学 统计 推荐系统 数据分析 文本挖掘 
+python Hive Hadoop Spark HBase 大数据 大规模 日志 
+大规模 数据挖掘 数据分析 算法 细节 数学 建模 推动 获取 最优 解 
+协同 过滤 回归分析 关联规则挖掘 分类 聚类 算法 统计 算法 建模实践经验 
+逻辑思维 归纳 解决问题 交流 团队 协同 积极主动 态度 
+业务人员 沟通 并用 简洁 清晰 方式 呈现 背后 
+
+
+计算机 专业本科 互联网 数据结构 算法 linux 环境 大数据处理 Hadoop Hive Spark Flink 机器学习 算法 计算广告 策略 数据挖掘 运营 推送 用户 策略 数据分析 团队 合作 沟通 
+
+数学 统计 计算机 理科 毕业 全日制 本科 
+数据挖掘 算法 实施 
+Python Spark 数据建模 hive hadoop 大数据处理 
+地产 互联网 
+
+
+本科 数学 统计学 计算机 数据建模 数据挖掘 
+Hadoop spark hive 强大 算法 代码 
+结构化 思维 沟通 执行力 推动 
+产品开发 Python R 
+数据分析 实施 成功 实施 案例 主导 多种 手段 建模 方法 大数据 实施 咨询 
+
+
+本科 计算机 数学 金融 
+数据分析 数据挖掘 
+逻辑回归 决策树 SVM GBDT XGBOOST 聚类 常规 算法 算法 
+数据清洗 标准化 
+SQL 
+Python 搭建 机器学习 
+意愿 需 技能 
+挑战 
+互联网 金融行业 风险 建模 
+
+
+计算机 数学 统计 数据挖掘 专业本科 
+大规模 数据分析 
+聚类 分类 回归 算法 建模 
+Java Python 
+Hadoop Spark Hive 
+逻辑思维 沟通 团队 合作 
+微信 分享 
+
+计算机 统计 模式识别 专业本科 
+一年 机器学习 
+机器学习 算法 GBDT LR SVM Tensorflow Caffe 
+算法 数据结构 
+逻辑思维 很强 数据分析 解决问题 
+
+
+职位 描述 职位 描述 资深 数据挖掘 专家 多种 机器学习 方法 监督 监督 弱 监督 迁移学习 增强 集成 
+机器学习 最优化 方法 目标 函数 设计 训练 技巧 核 技巧 压缩 
+清洗 整理 制定 方案 可视化 
+非 结构化 抽取 方法 序列 建模 autoencoder 因果 方法 
+端大 数据建模 管理 
+
+
+计算机 数学 硕士 两年 
+数据挖掘 机器学习 具体实施 方法 
+数据结构 
+
+算法 
+Hadoop MR Spark 
+
+
+统计学 数学 计算机 本科 数据挖掘 互联网 金融行业 HiveSQL python 机器学习 算法 客户 画像 标签 数据挖掘 类 数理统计 
+知识图谱 NLP 深度学习 
+
+数学 统计 计算机专业 硕士 
+两年 数据挖掘 算法 机器学习 统计 建模 
+逻辑思维 沟通 表达能力 方案 输出 展示 
+Python R SAS 算法 机器学习 自然语言处理 预测 算法 推荐系统 
+算法 源码 阅读 重构 二次 封装 调试 
+数据分析 方案 策划 提出 利用 算法 解决问题 
+乐于 钻研 抗压 责任心 团队 合作 
+sense 思考 体系 
+福利待遇 丰厚 年终奖金 高温 通信 全勤 津贴 节日 福利 
+入职 购买 五险 一金 年度 体检 
+公司 部门 员工 活动 每月 团建 文体活动 员工 生日会 旅游 
+五天 时 工作制 国家 通知 休假 享受 有薪 假期 
+团队 氛围 人性 关怀 信任 授权 
+公司 团队 健全 培养 体系 广阔 空间 
+优秀员工 享受 股权 激励 
+
+
+逻辑思维 数据分析 
+SQL R Python 数据清洗 Hadoop Spark Hive 大数据 
+C C++ Python Java 任意 算法 数据结构 功底 
+IT 数据分析 互联网 公司 数据分析 互联网 数据建模 
+数学 统计学 数据挖掘 机器学习 计算机 
+
+
+数据挖掘 推荐系统 
+机器学习 算法 个性化 算法 
+python pandas matplotlib seaborn sklearn 研发 库 
+深度学习 TensorFlow PyTorch Caffe MXNet 非常重视 员工 直播 类产品 加 分 
+
+
+a 数学 计算机相关专业 b spark ml 模块 分布式 部署 接口 c tf pytorch 分布式 显卡 训练 d NLP 算法 lda transformer textrank bert gpt e 数据结构 算法 AC 自动机 动态 规划 lightgbm f 代码 写作 规范 乐于分享 交流 总结经验 
+
+本科 计算机 统计 数学 毕业 
+两年 互联网 数据分析 
+linux 环境 SQL Python R 
+结论 报告 反馈 
+解决问题 成功 实践 
+表达能力 沟通 团队精神 
+
+
+提供 建立 数据分析 评估 调优 部署 一系列 研发 
+方式 负责 把握 主导 研发 
+负责 分享 专长 新 方法 
+
+
+机器学习 统计 硕士 
+统计分析 数据分析 体系 流程 方法 数据敏感性 机器学习 数据挖掘 算法 
+算法 Python Java Scala 
+SQL Python R 库包 Hadoop Spark 分布式计算 存储 
+参与 采集 清洗 整理 指标 设计 数据分析 输出 报告 
+用户 画像 推荐系统 
+逻辑思维 沟通 表达能力 方案 输出 展示 
+沟通 积极主动 责任心 团队协作 
+
+
+本科 软件 计算机相关专业 数据挖掘 
+悉 统计分析 数学 建模 数据挖掘 方法 
+数据库 SQL 
+Linux 基本操作 部署 Shell 命令 
+http 协议 前端 
+逻辑性 数字 思维 缜密 创新能力 责任心 强有 团队 合作 
+办公 地点 江苏 常州 集团 总部 
+
+机器学习 统计 硕士 
+统计分析 数据分析 体系 流程 方法 数据敏感性 机器学习 数据挖掘 算法 
+算法 Python Java Scala 
+SQL Python R 库包 Hadoop Spark 分布式计算 存储 
+参与 采集 清洗 整理 指标 设计 数据分析 输出 报告 
+用户 画像 推荐系统 
+逻辑思维 沟通 表达能力 方案 输出 展示 
+沟通 积极主动 责任心 团队协作 
+
+
+机器学习 统计 硕士 
+统计分析 数据分析 体系 流程 方法 数据敏感性 机器学习 数据挖掘 算法 
+算法 Python Java Scala 
+SQL Python R 库包 Hadoop Spark 分布式计算 存储 
+参与 采集 清洗 整理 指标 设计 数据分析 输出 报告 
+用户 画像 推荐系统 
+逻辑思维 沟通 表达能力 方案 输出 展示 
+沟通 积极主动 责任心 团队协作 
+
+
+机器学习 统计 硕士 
+统计分析 数据分析 体系 流程 方法 数据敏感性 机器学习 数据挖掘 算法 
+算法 Python Java Scala 
+SQL Python R 库包 Hadoop Spark 分布式计算 存储 
+参与 采集 清洗 整理 指标 设计 数据分析 输出 报告 
+用户 画像 推荐系统 
+逻辑思维 沟通 表达能力 方案 输出 展示 
+沟通 积极主动 责任心 团队协作 
+
+
+统计 数学 计算机 金融 硕士 数学 代码 
+SAS R Python 数据分析 建模 数据库 操作 SQL 语句 
+逻辑回归 决策树 机器学习 算法 算法 
+解决问题 驱动力 
+责任心 抗压 
+建模 大赛 
+同等条件 表达能力 强者 
+
+
+数据结构 
+数据报表 
+客户生命周期 BI 目标任务完成 BI 
+
+
+
+数学 计算机 地理信息 遥感 测绘 规划 技能 时空 大数据 采集 存储 建模 融合 清洗 可视化 机器学习 神经网络 算法 大数据 自然语言处理 智能 大数据 推理 风险 控制 大数据 任意 方向 国际化 视野 时空 大数据 国际 论文 拥有 
+全局 观 业界 趋势 未来 方向 前瞻性 眼光 OpenGIS 各层次 PostGIS QGIS GeoServer OpenLayer Cesium OSG Ceph PostgreSQL HBase Mongodb Redis Elasticsearch Spark Storm ParaView 大数据 计算 流 计算 
+
+数据建模 概念 物理 数据建模 数据库 设计 数据挖掘 数据建模 Erwin PowerDesigner 专长 关系数据库 SQL DBOracle Teradata 强大 收集 组织 传播 注重 细节 准确性 
+
+中级 全日制 统招 本科 计算机 数学 模式识别 自动控制 统计学 运筹学 
+互联网 统计 建模 机器学习 大数据 
+采集 集成 数据库 管理 数据仓库 专题 Excel 数据分析 Hadoop Hive 查询 
+机器学习 数据挖掘 类 算法 统计 方法 
+Java Scala SQL 
+大规模 分布式计算 Hadoop 并行算法 
+水利 水务 
+
+
+大规模 数据分析 
+聚类 分类 回归 算法 建模 
+C C++ Java Python R 
+Hadoop Spark 
+逻辑思维 沟通 团队 合作 
+
+
+全日制 本科 统计 计算机 数学 
+银行 信用卡 互联网 零售 信贷 两年 数据分析 建模 
+热爱 关注 质量 
+SQL R PYTHON SAS 建模 
+热爱 挑战 抗压 
+
+
+数据挖掘 数学 统计学 计算机 专业本科 
+分布式 hadoop spark 
+机器学习 算法 分类 回归 聚类 机器学习 算法 
+Linux Hive SQL Python Scala Java R 数据挖掘 
+拥有 规划 数据分析 项目管理 逻辑思维 沟通 表达能力 
+任一 条件者 机器学习 深度学习 迁移学习 强化 自然语言处理 图像识别 语音 任一 
+大型 金融 互联网 数据挖掘 实施 分类器 推荐系统 NLP 
+
+
+硕士 计算机 
+数据挖掘 数学 建模 深厚 人工智能 数据挖掘 关系型数据库 数据库系统 
+数据挖掘 方法论 金融行业 数据挖掘 专题 实施 
+
+
+统招 本科 一本 计算机 数学 模式识别 人工智能 统计 运筹学 硕士 尤佳 岁 以内 稳定性 
+数据挖掘 大规模 数据分析 建模 参与 过有 大规模 分布式数据存储 计算 一线 互联网 公司 
+数据挖掘 算法 决策树 SVM 聚类 逻辑回归 
+Linux 环境 C C++ Python Java MySQL 关系型数据库 SQL 语句 自主 存储 抽取 
+Python R SparkMLlib Mahout SAS 构建 
+Hadoop MapReduce Hive Hbase Spark Clickhouse Presto Kylin Druid Kafka 
+Superset 数据分析 可视化 Echarts Highcharts 
+
+
+统招 本科 一本 计算机 数学 模式识别 人工智能 统计 运筹学 硕士 尤佳 岁 以内 稳定性 
+数据挖掘 大规模 数据分析 建模 参与 过有 大规模 分布式数据存储 计算 一线 互联网 公司 
+数据挖掘 算法 决策树 SVM 聚类 逻辑回归 
+Linux 环境 C C++ Python Java MySQL 关系型数据库 SQL 语句 自主 存储 抽取 
+Python R SparkMLlib Mahout SAS 构建 
+Hadoop MapReduce Hive Hbase Spark Clickhouse Presto Kylin Druid Kafka 
+Superset 数据分析 可视化 Echarts Highcharts 
+
+
+统招 本科 一本 计算机 数学 模式识别 人工智能 统计 运筹学 硕士 尤佳 岁 以内 稳定性 
+数据挖掘 大规模 数据分析 建模 参与 过有 大规模 分布式数据存储 计算 一线 互联网 公司 
+数据挖掘 算法 决策树 SVM 聚类 逻辑回归 
+Linux 环境 C C++ Python Java MySQL 关系型数据库 SQL 语句 自主 存储 抽取 
+Python R SparkMLlib Mahout SAS 构建 
+Hadoop MapReduce Hive Hbase Spark Clickhouse Presto Kylin Druid Kafka 
+Superset 数据分析 可视化 Echarts Highcharts 
+
+
+统招 本科 一本 计算机 数学 模式识别 人工智能 统计 运筹学 硕士 尤佳 岁 以内 稳定性 
+数据挖掘 大规模 数据分析 建模 参与 过有 大规模 分布式数据存储 计算 一线 互联网 公司 
+数据挖掘 算法 决策树 SVM 聚类 逻辑回归 
+Linux 环境 C C++ Python Java MySQL 关系型数据库 SQL 语句 自主 存储 抽取 
+Python R SparkMLlib Mahout SAS 构建 
+Hadoop MapReduce Hive Hbase Spark Clickhouse Presto Kylin Druid Kafka 
+Superset 数据分析 可视化 Echarts Highcharts 
+
+
+统招 本科 一本 计算机 数学 模式识别 人工智能 统计 运筹学 硕士 尤佳 岁 以内 稳定性 
+数据挖掘 大规模 数据分析 建模 参与 过有 大规模 分布式数据存储 计算 一线 互联网 公司 
+数据挖掘 算法 决策树 SVM 聚类 逻辑回归 
+Linux 环境 C C++ Python Java MySQL 关系型数据库 SQL 语句 自主 存储 抽取 
+Python R SparkMLlib Mahout SAS 构建 
+Hadoop MapReduce Hive Hbase Spark Clickhouse Presto Kylin Druid Kafka 
+Superset 数据分析 可视化 Echarts Highcharts 
+
+
+统招 本科 一本 计算机 数学 模式识别 人工智能 统计 运筹学 硕士 尤佳 岁 以内 稳定性 
+数据挖掘 大规模 数据分析 建模 参与 过有 大规模 分布式数据存储 计算 一线 互联网 公司 
+数据挖掘 算法 决策树 SVM 聚类 逻辑回归 
+Linux 环境 C C++ Python Java MySQL 关系型数据库 SQL 语句 自主 存储 抽取 
+Python R SparkMLlib Mahout SAS 构建 
+Hadoop MapReduce Hive Hbase Spark Clickhouse Presto Kylin Druid Kafka 
+Superset 数据分析 可视化 Echarts Highcharts 
+
+
+统招 本科 一本 计算机 数学 模式识别 人工智能 统计 运筹学 硕士 尤佳 岁 以内 稳定性 
+数据挖掘 大规模 数据分析 建模 参与 过有 大规模 分布式数据存储 计算 一线 互联网 公司 
+数据挖掘 算法 决策树 SVM 聚类 逻辑回归 
+Linux 环境 C C++ Python Java MySQL 关系型数据库 SQL 语句 自主 存储 抽取 
+Python R SparkMLlib Mahout SAS 构建 
+Hadoop MapReduce Hive Hbase Spark Clickhouse Presto Kylin Druid Kafka 
+Superset 数据分析 可视化 Echarts Highcharts 
+
+
+统招 本科 一本 计算机 数学 模式识别 人工智能 统计 运筹学 硕士 尤佳 岁 以内 稳定性 
+数据挖掘 大规模 数据分析 建模 参与 过有 大规模 分布式数据存储 计算 一线 互联网 公司 
+数据挖掘 算法 决策树 SVM 聚类 逻辑回归 
+Linux 环境 C C++ Python Java MySQL 关系型数据库 SQL 语句 自主 存储 抽取 
+Python R SparkMLlib Mahout SAS 构建 
+Hadoop MapReduce Hive Hbase Spark Clickhouse Presto Kylin Druid Kafka 
+Superset 数据分析 可视化 Echarts Highcharts 
+
+
+统招 本科 一本 计算机 数学 模式识别 人工智能 统计 运筹学 硕士 尤佳 岁 以内 稳定性 
+数据挖掘 大规模 数据分析 建模 参与 过有 大规模 分布式数据存储 计算 一线 互联网 公司 
+数据挖掘 算法 决策树 SVM 聚类 逻辑回归 
+Linux 环境 C C++ Python Java MySQL 关系型数据库 SQL 语句 自主 存储 抽取 
+Python R SparkMLlib Mahout SAS 构建 
+Hadoop MapReduce Hive Hbase Spark Clickhouse Presto Kylin Druid Kafka 
+Superset 数据分析 可视化 Echarts Highcharts 
+
+
+统招 本科 一本 计算机 数学 模式识别 人工智能 统计 运筹学 硕士 尤佳 岁 以内 稳定性 
+数据挖掘 大规模 数据分析 建模 参与 过有 大规模 分布式数据存储 计算 一线 互联网 公司 
+数据挖掘 算法 决策树 SVM 聚类 逻辑回归 
+Linux 环境 C C++ Python Java MySQL 关系型数据库 SQL 语句 自主 存储 抽取 
+Python R SparkMLlib Mahout SAS 构建 
+Hadoop MapReduce Hive Hbase Spark Clickhouse Presto Kylin Druid Kafka 
+Superset 数据分析 可视化 Echarts Highcharts 
